@@ -148,8 +148,8 @@ pip install numpy opencv-contrib-python
 1. Clone the repository and enter the project directory:
 
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-folder>
+   git clone https://github.com/accorintibenito/real-time-object-detection-and-measurement-with-OpenCV-and-ArUco-markers.git
+   cd real-time-object-detection-and-measurement-with-OpenCV-and-ArUco-markers
    ```
 
 2. Install dependencies:
@@ -252,10 +252,10 @@ These metrics are natural next steps for extending the project into a more rigor
 
 ## Author
 
-Developed as a Machine Vision project focused on real-time image processing, metric calibration, contour-based measurement, and interpretable object classification.
+Developed as a Machine Vision University project focused on real-time image processing, metric calibration, contour-based measurement, and interpretable object classification.
 
 ---
 
 ## License
 
-Add a license file before publishing the repository publicly. For open-source portfolio projects, the MIT License is a common permissive choice.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
